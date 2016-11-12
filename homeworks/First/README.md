@@ -1,1 +1,1 @@
-repositorium to understad how github wors
+repositorium to understad how github works
